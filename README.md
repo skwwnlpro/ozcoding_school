@@ -1,1 +1,1 @@
-OZCoding_School 과제 Repo
+# OZCoding_School 과제 Repo
