@@ -33,7 +33,7 @@ body {
   height: 50px;
   margin-right: 10px;
   border-radius: 10px;
-  background-color: #fcc41f;
+  background-color: greenyellow;
 }
 .user__nick,
 .user__count {
@@ -64,7 +64,7 @@ body {
   width: 120px;
   height: 120px;
   border-radius: 10px;
-  background-color: #fcc41f;
+  background-color: rgb(17, 183, 186);
   font-size: 18px;
 }
 
